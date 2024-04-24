@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.content-wrapper {
+    display: flex;
+    align-items: stretch;
+}
+
+html, body {
+    margin: 0;
+}

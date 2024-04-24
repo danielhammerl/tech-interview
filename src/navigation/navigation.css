@@ -1,0 +1,19 @@
+.navigation {
+    display: flex;
+    width: 10vw;
+    flex-direction: column;
+    background: #ee7900;
+    height: 100%;
+}
+
+.navigation-item {
+    text-align: left;
+}
+
+.navigation-item:hover {
+    cursor: pointer;
+}
+
+.navigation-item h4 {
+    display: inline-block;
+}
