@@ -2,12 +2,14 @@
     display: flex;
     width: 10vw;
     flex-direction: column;
-    background: #ee7900;
-    height: 100%;
+    padding: 1rem;
+    border-right: 1px solid gray;
 }
 
 .navigation-item {
     text-align: left;
+    text-decoration: none;
+    color: black;
 }
 
 .navigation-item:hover {
