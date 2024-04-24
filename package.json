@@ -1,4 +1,5 @@
 {
+  "name": "tech-interview",
   "main": "src/index.tsx",
   "dependencies": {
     "loader-utils": "3.2.1",
