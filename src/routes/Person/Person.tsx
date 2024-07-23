@@ -5,7 +5,7 @@ import { FormPage } from "../../components/FormPage";
 
 export function Person() {
   return (
-    <FormPage title="Daten zur Immobilie">
+    <FormPage title="Daten zur Person">
       <FirstName />
       <LastName />
     </FormPage>
